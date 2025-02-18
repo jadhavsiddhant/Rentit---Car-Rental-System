@@ -70,11 +70,9 @@ The Car Rental Management System is a software application that allows admins to
 - **Input Validation**
 
 ## Requirements
-- Programming Language: Java/Python (or any preferred language)
-- Database: MySQL/PostgreSQL
-- Frameworks: Spring Boot (for Java) / Flask (for Python) (optional)
-- Frontend: HTML, CSS, JavaScript (if applicable)
-- Tools: Eclipse/IntelliJ/PyCharm
+- Programming Language Used: Java
+- Database: MySQL
+- Tools: Eclipse/Vscode
 
 ## Setup Instructions
 1. Clone the repository.
@@ -82,16 +80,5 @@ The Car Rental Management System is a software application that allows admins to
 3. Run the application.
 4. Log in as an admin to start managing cars and bookings.
 
-## Future Enhancements
-- Implement user roles with different permission levels.
-- Integrate payment gateway for online payments.
-- Add customer feedback and rating system.
-- Mobile-friendly UI for easier access.
-
-## License
-This project is open-source and available for modification and distribution.
-
 ---
-
-This README provides an overview of the Car Rental Management System, including features, system design, and implementation details. Let me know if you need any modifications or additional details!
 
